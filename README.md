@@ -6,7 +6,7 @@ Un blog increíble para el curso de Git y GitHub, para enriquecer el conocimient
 >
 > - yiye
 
-##En este curso vemos de todo:
+## En este curso vemos de todo:
 
 - Todos los comandos de Git
 - El flujo de trabajo en GitHub
@@ -14,4 +14,4 @@ Un blog increíble para el curso de Git y GitHub, para enriquecer el conocimient
 - Trucos muy locos del profersor
 - Las personalidades multiples de Freddy
 
-Y como amable recordatorio: **Este README.md es un chiste**. Diseńado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/"a ver el curso").
+Y como amable recordatorio: **Este README.md es un chiste**. Diseńado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [ **a ver el curso** ](https://platzi.com/cursos/git-github/).
